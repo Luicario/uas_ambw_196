@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70865333096",
+    "project_id": "fir-coba-f2482",
+    "storage_bucket": "fir-coba-f2482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70865333096:android:c90948d24ae2552535c4dd",
+        "android_client_info": {
+          "package_name": "com.example.uas_ambw_196"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70865333096-ak8a8vimm2g2t7hu7tvrkf8r3vahdmq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_EjE3dWd1gBOD_-yjIWpQsmtHAqPRfXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70865333096-ak8a8vimm2g2t7hu7tvrkf8r3vahdmq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
